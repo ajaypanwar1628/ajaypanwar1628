@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajay Panwar & working as an assistant manager of IT with LimeRoad.com (Vmart retail limited)
+- 👋 Hi, I’m Ajay Panwar & working as Deputy manager of IT with LimeRoad.com (Vmart retail limited)
 - 👀 I’m interested in Windows/Linux administartor, Cloud computing & DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
